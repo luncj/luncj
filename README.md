@@ -6,11 +6,6 @@ Recently, I am fascinated with:
 - rust
 - distributed system
 
-### Get in touch
-
-- Twitter: [@JialunTsai](https://twitter.com/jialunTsai)
-- Email: [jialun.tsai@gmail.com](mailto:jialun.tsai@gmail.com)
-
 <!--
 **luncj/luncj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
